@@ -1,0 +1,5 @@
+J:\Project\mysnake\mysnake\mysnake\bin\Debug\mysnake.exe
+J:\Project\mysnake\mysnake\mysnake\obj\x86\Debug\ResolveAssemblyReference.cache
+J:\Project\mysnake\mysnake\mysnake\obj\x86\Debug\mysnake.exe
+J:\Project\mysnake\mysnake\mysnake\obj\x86\Debug\mysnake.pdb
+J:\Project\mysnake\mysnake\mysnake\bin\Debug\mysnake.pdb
